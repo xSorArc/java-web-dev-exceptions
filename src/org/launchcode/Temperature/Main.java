@@ -1,4 +1,4 @@
-package org.launchcode;
+package org.launchcode.Temperature;
 
 public class Main {
 
